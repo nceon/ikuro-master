@@ -1,0 +1,30 @@
+{
+    "prefix": [
+        "."
+    ],
+
+    "botAdmins": [
+        "402125470478630912",
+        "455005870539931669",
+        "724596964905451550",
+        "663506559007195136",
+        "623688790971514890",
+        "727887715869261864"
+    ],
+
+    "botToken": "NzU1Njk1NjExNTQ5OTc0NTgw.X2HCYQ.IIcKL5dwFKKluY19dAIJb86VVUo",
+
+    "consoleToken": "NzU1Njk1************************************************",
+
+    "answers": [
+        "Yes.",
+        "Probably.",
+        "No.",
+        "Of course.",
+        "Probably not.",
+        "Doubt that.",
+        "Don't doubt that.",
+        "Not likely",
+        "Not quite sure."
+    ]
+}
