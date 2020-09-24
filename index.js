@@ -373,4 +373,4 @@ client.on('error', error => console.error(error));
 client.on('warn', warning => console.warn(warning));
 client.on('debug', debug => console.debug(debug));
 
-client.login(botToken)
+client.login('NzU1Njk1NjExNTQ5OTc0NTgw.X2HCYQ.IIcKL5dwFKKluY19dAIJb86VVUo')
